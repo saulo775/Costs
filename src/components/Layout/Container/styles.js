@@ -9,5 +9,4 @@ export const Content = styled.div`
     max-width: 67.5rem;
     
     min-height: ${props => props.min_heigth ? 70: 0}vh;
-    background-color: red;
     `;
