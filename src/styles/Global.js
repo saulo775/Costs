@@ -14,7 +14,7 @@ export const GlobalStyle = createGlobalStyle`
 
 
         --text-title: #252525;
-        --text-body: #5a5a5a;
+        --text-body: #7b7b7b;
 
         --shape: #FFFFFF;
     }
@@ -41,12 +41,12 @@ export const GlobalStyle = createGlobalStyle`
     }
 
     body, input, textarea, button {
-        font-family: 'Righteous', cursive;
+        font-family: 'Josefin Sans', sans-serif;
         font-weight: 400;
     }
 
     ul, li {
-        font-family: 'Poppins', sans-serif;
+        font-family: 'Josefin Sans', sans-serif;
     }
 
     h1, h2, h3, h4, h5, h6, strong {
@@ -54,7 +54,7 @@ export const GlobalStyle = createGlobalStyle`
     }
 
     h3, h4, h5, h6, p {
-        font-family: 'Poppins', sans-serif;
+        font-family: 'Josefin Sans', sans-serif;
     }
 
     a{

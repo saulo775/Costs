@@ -20,7 +20,6 @@ export const FooterContainer = styled.footer`
             font-size: 1.5rem;
             cursor: pointer;
         }
-
     }
 
     p {
